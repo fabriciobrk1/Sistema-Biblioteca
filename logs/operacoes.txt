@@ -1,0 +1,8 @@
+2025-08-28T17:35:55.230288600 - Cadastro de livro: teste
+2025-08-28T17:39:00.913251400 - Remoção de livro ID: 1
+2025-08-28T17:39:17.540377700 - Cadastro de livro: aaaa
+2025-08-28T17:39:31.056591100 - Remoção de livro ID: 2
+2025-08-28T17:44:31.060659900 - Atualização de livro ID: 2
+2025-08-28T17:45:16.269881200 - Cadastro de livro: aaaaaaa
+2025-08-28T17:45:33.578015 - Atualização de livro ID: 3
+2025-08-28T17:45:47.572225500 - Remoção de livro ID: 3
